@@ -1,0 +1,23 @@
+*{
+   margin:10px;
+   padding:0px;
+}
+div#general{
+	 margin:auto:
+float:right;
+         margin-top:50px;
+	 width:960px;
+	 height:600px;
+	 background:red;
+div#ofertas{
+     float:right;
+     width:100px;
+     height:500px;
+     background-color:blue;
+}
+nav#novedades{
+     width:640px;
+     height:200px;
+     background:blue;
+}	
+
